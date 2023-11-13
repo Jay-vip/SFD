@@ -1,2 +1,2 @@
-# SFD
-We will soon open source code, please look forward!
+# ADD 
+Run `attacks/knockoff_attack.sh` to start working!
